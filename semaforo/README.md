@@ -21,7 +21,6 @@ O projeto tem como objetivo aplicar, na prática, conceitos de programação em 
 - Utilizar botões como entradas digitais
 - Desenvolver lógica de acionamento e desligamento
 - Praticar programação para microcontroladores
-- Aplicar conceitos de máscaras de bits e operações bit a bit
 - Integrar software e hardware em um projeto funcional.
 
 ## Como executar
